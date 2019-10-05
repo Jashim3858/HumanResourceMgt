@@ -1,0 +1,114 @@
+﻿@model HumanResourceManagement.Models.Payroll
+
+@{
+    ViewBag.Title = "Details";
+}
+
+<h2>Details</h2>
+
+<div>
+    <h4>Payroll</h4>
+    <hr />
+    <dl class="dl-horizontal">
+        <dt>
+            @Html.DisplayNameFor(model => model.BasicSalary)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.BasicSalary)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.OverTime)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.OverTime)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.HouserentAllowance)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.HouserentAllowance)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.TransportAllowance)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.TransportAllowance)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.DarenessAllowance)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.DarenessAllowance)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.MedicalAllowance)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.MedicalAllowance)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.GrossSalary)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.GrossSalary)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.ProvidentFund)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.ProvidentFund)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.CashAdvanced)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.CashAdvanced)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.ToatalDeduction)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.ToatalDeduction)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.NetSalary)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.NetSalary)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.EmployeeID)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.EmployeeID)
+        </dd>
+
+    </dl>
+</div>
+<p>
+    @Html.ActionLink("Edit", "Edit", new { id = Model.PayrollID }) |
+    @Html.ActionLink("Back to List", "Index")
+</p>

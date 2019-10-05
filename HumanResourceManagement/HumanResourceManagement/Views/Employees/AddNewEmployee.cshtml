@@ -1,0 +1,70 @@
+﻿@model IEnumerable<HumanResourceManagement.Models.Employee>
+
+@{
+    ViewBag.Title = "AddNewEmployee";
+}
+
+<h2>Add New Employee</h2>
+
+
+<div>
+    <div class="row">
+        <div class="col-md-6">
+            <form id="AddNewEmployee" method="post" enctype="multipart/form-data" onsubmit="return AjaxPost(this)">
+                <label>Employee Name</label>
+                <input id="EmployeeName" name="EmployeeName" class="form-control" placeholder="Employee Name" />
+
+                <label>Email</label>
+                <input id="Email" name="Email" class="form-control" placeholder="Email" />
+
+                <label>Date of Birth</label>
+                <input id="DOB" name="DOB" type="date" class="form-control" placeholder="Date of Birth" />
+
+                <label>Phone Number</label>
+                <input id="PhoneNumber" name="PhoneNumber" class="form-control" placeholder="Phone Number" />
+
+                <label>Contract Address</label>
+                <input id="ContractAddress" name="ContractAddress" class="form-control" placeholder="Contract Address" />
+
+                <label>Basic Salary</label>
+                <input id="BasicSalary" name="BasicSalary" class="form-control" placeholder="Basic Salary" />
+
+                <label>Hire Date</label>
+                <input id="HireDate" name="HireDate" type="date" class="form-control" placeholder="Hire Date" />
+
+                <label>Department ID</label>
+                <input id="DepartmentID" name="DepartmentID" class="form-control" placeholder="Department ID" />
+
+                <label>Photo</label>
+                <input id="ImageUpload" name="ImageUpload" class="form-control" type="file" />
+                <br />
+                <button class="btn btn-success">Add New Employee</button>
+            </form>
+        </div>
+    </div>
+</div>
+
+<script>
+    function AjaxPost(formData) {
+        var ajaxConfig = {
+            type: "post",
+            url: "/Employees/SaveData",
+            data: new FormData(formData),
+            success: function (result) {
+                alert(result);
+                window.location.href = "/Employees/Index"
+            }
+        }
+        if ($(formData).attr('enctype') == "multipart/form-data") {
+            ajaxConfig["contentType"] = false;
+            ajaxConfig["processData"] = false;
+        }
+        $.ajax(ajaxConfig);
+        return false;
+    }
+</script>
+
+
+<div>
+    @Html.ActionLink("Back to List", "Index")
+</div>

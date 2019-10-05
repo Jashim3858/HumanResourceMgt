@@ -1,0 +1,120 @@
+﻿@model HumanResourceManagement.Models.Payroll
+
+@{
+    ViewBag.Title = "Delete";
+}
+
+<h2>Delete</h2>
+
+<h3>Are you sure you want to delete this?</h3>
+<div>
+    <h4>Payroll</h4>
+    <hr />
+    <dl class="dl-horizontal">
+        <dt>
+            @Html.DisplayNameFor(model => model.BasicSalary)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.BasicSalary)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.OverTime)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.OverTime)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.HouserentAllowance)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.HouserentAllowance)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.TransportAllowance)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.TransportAllowance)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.DarenessAllowance)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.DarenessAllowance)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.MedicalAllowance)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.MedicalAllowance)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.GrossSalary)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.GrossSalary)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.ProvidentFund)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.ProvidentFund)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.CashAdvanced)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.CashAdvanced)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.ToatalDeduction)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.ToatalDeduction)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.NetSalary)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.NetSalary)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.EmployeeID)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.EmployeeID)
+        </dd>
+
+    </dl>
+
+    @using (Html.BeginForm()) {
+        @Html.AntiForgeryToken()
+
+        <div class="form-actions no-color">
+            <input type="submit" value="Delete" class="btn btn-default" /> |
+            @Html.ActionLink("Back to List", "Index")
+        </div>
+    }
+</div>

@@ -1,0 +1,331 @@
+F:\New folder\MVC\Project\HumanResourceManagement\HumanResourceManagement\bin\HumanResourceManagement.dll.config
+F:\New folder\MVC\Project\HumanResourceManagement\HumanResourceManagement\bin\HumanResourceManagement.dll
+F:\New folder\MVC\Project\HumanResourceManagement\HumanResourceManagement\bin\HumanResourceManagement.pdb
+F:\New folder\MVC\Project\HumanResourceManagement\HumanResourceManagement\bin\roslyn\csc.exe
+F:\New folder\MVC\Project\HumanResourceManagement\HumanResourceManagement\bin\roslyn\csc.exe.config
+F:\New folder\MVC\Project\HumanResourceManagement\HumanResourceManagement\bin\roslyn\csc.rsp
+F:\New folder\MVC\Project\HumanResourceManagement\HumanResourceManagement\bin\roslyn\csi.exe
+F:\New folder\MVC\Project\HumanResourceManagement\HumanResourceManagement\bin\roslyn\csi.exe.config
+F:\New folder\MVC\Project\HumanResourceManagement\HumanResourceManagement\bin\roslyn\csi.rsp
+F:\New folder\MVC\Project\HumanResourceManagement\HumanResourceManagement\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+F:\New folder\MVC\Project\HumanResourceManagement\HumanResourceManagement\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+F:\New folder\MVC\Project\HumanResourceManagement\HumanResourceManagement\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+F:\New folder\MVC\Project\HumanResourceManagement\HumanResourceManagement\bin\roslyn\Microsoft.CodeAnalysis.dll
+F:\New folder\MVC\Project\HumanResourceManagement\HumanResourceManagement\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+F:\New folder\MVC\Project\HumanResourceManagement\HumanResourceManagement\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+F:\New folder\MVC\Project\HumanResourceManagement\HumanResourceManagement\bin\roslyn\Microsoft.CSharp.Core.targets
+F:\New folder\MVC\Project\HumanResourceManagement\HumanResourceManagement\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+F:\New folder\MVC\Project\HumanResourceManagement\HumanResourceManagement\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+F:\New folder\MVC\Project\HumanResourceManagement\HumanResourceManagement\bin\roslyn\Microsoft.Managed.Core.targets
+F:\New folder\MVC\Project\HumanResourceManagement\HumanResourceManagement\bin\roslyn\Microsoft.VisualBasic.Core.targets
+F:\New folder\MVC\Project\HumanResourceManagement\HumanResourceManagement\bin\roslyn\System.AppContext.dll
+F:\New folder\MVC\Project\HumanResourceManagement\HumanResourceManagement\bin\roslyn\System.Collections.Immutable.dll
+F:\New folder\MVC\Project\HumanResourceManagement\HumanResourceManagement\bin\roslyn\System.Console.dll
+F:\New folder\MVC\Project\HumanResourceManagement\HumanResourceManagement\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+F:\New folder\MVC\Project\HumanResourceManagement\HumanResourceManagement\bin\roslyn\System.Diagnostics.StackTrace.dll
+F:\New folder\MVC\Project\HumanResourceManagement\HumanResourceManagement\bin\roslyn\System.IO.Compression.dll
+F:\New folder\MVC\Project\HumanResourceManagement\HumanResourceManagement\bin\roslyn\System.IO.FileSystem.dll
+F:\New folder\MVC\Project\HumanResourceManagement\HumanResourceManagement\bin\roslyn\System.IO.FileSystem.Primitives.dll
+F:\New folder\MVC\Project\HumanResourceManagement\HumanResourceManagement\bin\roslyn\System.IO.Pipes.AccessControl.dll
+F:\New folder\MVC\Project\HumanResourceManagement\HumanResourceManagement\bin\roslyn\System.IO.Pipes.dll
+F:\New folder\MVC\Project\HumanResourceManagement\HumanResourceManagement\bin\roslyn\System.Reflection.Metadata.dll
+F:\New folder\MVC\Project\HumanResourceManagement\HumanResourceManagement\bin\roslyn\System.Security.AccessControl.dll
+F:\New folder\MVC\Project\HumanResourceManagement\HumanResourceManagement\bin\roslyn\System.Security.Claims.dll
+F:\New folder\MVC\Project\HumanResourceManagement\HumanResourceManagement\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+F:\New folder\MVC\Project\HumanResourceManagement\HumanResourceManagement\bin\roslyn\System.Security.Cryptography.Encoding.dll
+F:\New folder\MVC\Project\HumanResourceManagement\HumanResourceManagement\bin\roslyn\System.Security.Cryptography.Primitives.dll
+F:\New folder\MVC\Project\HumanResourceManagement\HumanResourceManagement\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+F:\New folder\MVC\Project\HumanResourceManagement\HumanResourceManagement\bin\roslyn\System.Security.Principal.Windows.dll
+F:\New folder\MVC\Project\HumanResourceManagement\HumanResourceManagement\bin\roslyn\System.Text.Encoding.CodePages.dll
+F:\New folder\MVC\Project\HumanResourceManagement\HumanResourceManagement\bin\roslyn\System.ValueTuple.dll
+F:\New folder\MVC\Project\HumanResourceManagement\HumanResourceManagement\bin\roslyn\System.Xml.ReaderWriter.dll
+F:\New folder\MVC\Project\HumanResourceManagement\HumanResourceManagement\bin\roslyn\System.Xml.XmlDocument.dll
+F:\New folder\MVC\Project\HumanResourceManagement\HumanResourceManagement\bin\roslyn\System.Xml.XPath.dll
+F:\New folder\MVC\Project\HumanResourceManagement\HumanResourceManagement\bin\roslyn\System.Xml.XPath.XDocument.dll
+F:\New folder\MVC\Project\HumanResourceManagement\HumanResourceManagement\bin\roslyn\vbc.exe
+F:\New folder\MVC\Project\HumanResourceManagement\HumanResourceManagement\bin\roslyn\vbc.exe.config
+F:\New folder\MVC\Project\HumanResourceManagement\HumanResourceManagement\bin\roslyn\vbc.rsp
+F:\New folder\MVC\Project\HumanResourceManagement\HumanResourceManagement\bin\roslyn\VBCSCompiler.exe
+F:\New folder\MVC\Project\HumanResourceManagement\HumanResourceManagement\bin\roslyn\VBCSCompiler.exe.config
+F:\New folder\MVC\Project\HumanResourceManagement\HumanResourceManagement\bin\Antlr3.Runtime.dll
+F:\New folder\MVC\Project\HumanResourceManagement\HumanResourceManagement\bin\EntityFramework.dll
+F:\New folder\MVC\Project\HumanResourceManagement\HumanResourceManagement\bin\EntityFramework.SqlServer.dll
+F:\New folder\MVC\Project\HumanResourceManagement\HumanResourceManagement\bin\Microsoft.AspNet.Identity.Core.dll
+F:\New folder\MVC\Project\HumanResourceManagement\HumanResourceManagement\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+F:\New folder\MVC\Project\HumanResourceManagement\HumanResourceManagement\bin\Microsoft.AspNet.Identity.Owin.dll
+F:\New folder\MVC\Project\HumanResourceManagement\HumanResourceManagement\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+F:\New folder\MVC\Project\HumanResourceManagement\HumanResourceManagement\bin\Microsoft.Owin.dll
+F:\New folder\MVC\Project\HumanResourceManagement\HumanResourceManagement\bin\Microsoft.Owin.Host.SystemWeb.dll
+F:\New folder\MVC\Project\HumanResourceManagement\HumanResourceManagement\bin\Microsoft.Owin.Security.Cookies.dll
+F:\New folder\MVC\Project\HumanResourceManagement\HumanResourceManagement\bin\Microsoft.Owin.Security.dll
+F:\New folder\MVC\Project\HumanResourceManagement\HumanResourceManagement\bin\Microsoft.Owin.Security.Facebook.dll
+F:\New folder\MVC\Project\HumanResourceManagement\HumanResourceManagement\bin\Microsoft.Owin.Security.Google.dll
+F:\New folder\MVC\Project\HumanResourceManagement\HumanResourceManagement\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+F:\New folder\MVC\Project\HumanResourceManagement\HumanResourceManagement\bin\Microsoft.Owin.Security.OAuth.dll
+F:\New folder\MVC\Project\HumanResourceManagement\HumanResourceManagement\bin\Microsoft.Owin.Security.Twitter.dll
+F:\New folder\MVC\Project\HumanResourceManagement\HumanResourceManagement\bin\Microsoft.Web.Infrastructure.dll
+F:\New folder\MVC\Project\HumanResourceManagement\HumanResourceManagement\bin\Newtonsoft.Json.dll
+F:\New folder\MVC\Project\HumanResourceManagement\HumanResourceManagement\bin\Owin.dll
+F:\New folder\MVC\Project\HumanResourceManagement\HumanResourceManagement\bin\System.Web.Helpers.dll
+F:\New folder\MVC\Project\HumanResourceManagement\HumanResourceManagement\bin\System.Web.Mvc.dll
+F:\New folder\MVC\Project\HumanResourceManagement\HumanResourceManagement\bin\System.Web.Optimization.dll
+F:\New folder\MVC\Project\HumanResourceManagement\HumanResourceManagement\bin\System.Web.Razor.dll
+F:\New folder\MVC\Project\HumanResourceManagement\HumanResourceManagement\bin\System.Web.WebPages.Deployment.dll
+F:\New folder\MVC\Project\HumanResourceManagement\HumanResourceManagement\bin\System.Web.WebPages.dll
+F:\New folder\MVC\Project\HumanResourceManagement\HumanResourceManagement\bin\System.Web.WebPages.Razor.dll
+F:\New folder\MVC\Project\HumanResourceManagement\HumanResourceManagement\bin\WebGrease.dll
+F:\New folder\MVC\Project\HumanResourceManagement\HumanResourceManagement\bin\System.Web.Helpers.xml
+F:\New folder\MVC\Project\HumanResourceManagement\HumanResourceManagement\bin\System.Web.Mvc.xml
+F:\New folder\MVC\Project\HumanResourceManagement\HumanResourceManagement\bin\System.Web.Optimization.xml
+F:\New folder\MVC\Project\HumanResourceManagement\HumanResourceManagement\bin\System.Web.Razor.xml
+F:\New folder\MVC\Project\HumanResourceManagement\HumanResourceManagement\bin\System.Web.WebPages.xml
+F:\New folder\MVC\Project\HumanResourceManagement\HumanResourceManagement\bin\System.Web.WebPages.Deployment.xml
+F:\New folder\MVC\Project\HumanResourceManagement\HumanResourceManagement\bin\System.Web.WebPages.Razor.xml
+F:\New folder\MVC\Project\HumanResourceManagement\HumanResourceManagement\bin\Newtonsoft.Json.xml
+F:\New folder\MVC\Project\HumanResourceManagement\HumanResourceManagement\bin\Antlr3.Runtime.pdb
+F:\New folder\MVC\Project\HumanResourceManagement\HumanResourceManagement\bin\EntityFramework.xml
+F:\New folder\MVC\Project\HumanResourceManagement\HumanResourceManagement\bin\EntityFramework.SqlServer.xml
+F:\New folder\MVC\Project\HumanResourceManagement\HumanResourceManagement\bin\Microsoft.AspNet.Identity.Core.xml
+F:\New folder\MVC\Project\HumanResourceManagement\HumanResourceManagement\bin\Microsoft.AspNet.Identity.Owin.xml
+F:\New folder\MVC\Project\HumanResourceManagement\HumanResourceManagement\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+F:\New folder\MVC\Project\HumanResourceManagement\HumanResourceManagement\bin\Microsoft.Owin.xml
+F:\New folder\MVC\Project\HumanResourceManagement\HumanResourceManagement\bin\Microsoft.Owin.Host.SystemWeb.xml
+F:\New folder\MVC\Project\HumanResourceManagement\HumanResourceManagement\bin\Microsoft.Owin.Security.xml
+F:\New folder\MVC\Project\HumanResourceManagement\HumanResourceManagement\bin\Microsoft.Owin.Security.Facebook.xml
+F:\New folder\MVC\Project\HumanResourceManagement\HumanResourceManagement\bin\Microsoft.Owin.Security.Cookies.xml
+F:\New folder\MVC\Project\HumanResourceManagement\HumanResourceManagement\bin\Microsoft.Owin.Security.Google.xml
+F:\New folder\MVC\Project\HumanResourceManagement\HumanResourceManagement\bin\Microsoft.Owin.Security.Twitter.xml
+F:\New folder\MVC\Project\HumanResourceManagement\HumanResourceManagement\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+F:\New folder\MVC\Project\HumanResourceManagement\HumanResourceManagement\bin\Microsoft.Owin.Security.OAuth.xml
+F:\New folder\MVC\Project\HumanResourceManagement\HumanResourceManagement\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+F:\New folder\MVC\Project\HumanResourceManagement\HumanResourceManagement\obj\Debug\HumanResourceManagement.csproj.CoreCompileInputs.cache
+F:\New folder\MVC\Project\HumanResourceManagement\HumanResourceManagement\obj\Debug\HumanResourceManagement.csproj.CopyComplete
+F:\New folder\MVC\Project\HumanResourceManagement\HumanResourceManagement\obj\Debug\HumanResourceManagement.dll
+F:\New folder\MVC\Project\HumanResourceManagement\HumanResourceManagement\obj\Debug\HumanResourceManagement.pdb
+F:\New folder\MVC\Project\HumanResourceManagement\HumanResourceManagement\obj\Debug\HumanResourceManagement.Migrations.Jashim.resources
+F:\New folder\MVC\Project\HumanResourceManagement\HumanResourceManagement\obj\Debug\HumanResourceManagement.csproj.GenerateResource.cache
+F:\New folder\MVC\Project\HumanResourceManagement\HumanResourceManagement\obj\Debug\HumanResourceManagement.Migrations.Jashim2.resources
+F:\New folder\MVC\Project\HumanResourceManagement\HumanResourceManagement\obj\Debug\HumanResourceManagement.Migrations.Jashim3.resources
+F:\New folder\MVC\Project\HumanResourceManagement\HumanResourceManagement\obj\Debug\HumanResourceManagement.Migrations.Jashim5.resources
+E:\Project08\HumanResourceManagement\HumanResourceManagement\bin\HumanResourceManagement.dll.config
+E:\Project08\HumanResourceManagement\HumanResourceManagement\bin\HumanResourceManagement.dll
+E:\Project08\HumanResourceManagement\HumanResourceManagement\bin\HumanResourceManagement.pdb
+E:\Project08\HumanResourceManagement\HumanResourceManagement\bin\roslyn\csc.exe
+E:\Project08\HumanResourceManagement\HumanResourceManagement\bin\roslyn\csc.exe.config
+E:\Project08\HumanResourceManagement\HumanResourceManagement\bin\roslyn\csc.rsp
+E:\Project08\HumanResourceManagement\HumanResourceManagement\bin\roslyn\csi.exe
+E:\Project08\HumanResourceManagement\HumanResourceManagement\bin\roslyn\csi.exe.config
+E:\Project08\HumanResourceManagement\HumanResourceManagement\bin\roslyn\csi.rsp
+E:\Project08\HumanResourceManagement\HumanResourceManagement\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+E:\Project08\HumanResourceManagement\HumanResourceManagement\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+E:\Project08\HumanResourceManagement\HumanResourceManagement\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+E:\Project08\HumanResourceManagement\HumanResourceManagement\bin\roslyn\Microsoft.CodeAnalysis.dll
+E:\Project08\HumanResourceManagement\HumanResourceManagement\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+E:\Project08\HumanResourceManagement\HumanResourceManagement\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+E:\Project08\HumanResourceManagement\HumanResourceManagement\bin\roslyn\Microsoft.CSharp.Core.targets
+E:\Project08\HumanResourceManagement\HumanResourceManagement\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+E:\Project08\HumanResourceManagement\HumanResourceManagement\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+E:\Project08\HumanResourceManagement\HumanResourceManagement\bin\roslyn\Microsoft.Managed.Core.targets
+E:\Project08\HumanResourceManagement\HumanResourceManagement\bin\roslyn\Microsoft.VisualBasic.Core.targets
+E:\Project08\HumanResourceManagement\HumanResourceManagement\bin\roslyn\System.AppContext.dll
+E:\Project08\HumanResourceManagement\HumanResourceManagement\bin\roslyn\System.Collections.Immutable.dll
+E:\Project08\HumanResourceManagement\HumanResourceManagement\bin\roslyn\System.Console.dll
+E:\Project08\HumanResourceManagement\HumanResourceManagement\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+E:\Project08\HumanResourceManagement\HumanResourceManagement\bin\roslyn\System.Diagnostics.StackTrace.dll
+E:\Project08\HumanResourceManagement\HumanResourceManagement\bin\roslyn\System.IO.Compression.dll
+E:\Project08\HumanResourceManagement\HumanResourceManagement\bin\roslyn\System.IO.FileSystem.dll
+E:\Project08\HumanResourceManagement\HumanResourceManagement\bin\roslyn\System.IO.FileSystem.Primitives.dll
+E:\Project08\HumanResourceManagement\HumanResourceManagement\bin\roslyn\System.IO.Pipes.AccessControl.dll
+E:\Project08\HumanResourceManagement\HumanResourceManagement\bin\roslyn\System.IO.Pipes.dll
+E:\Project08\HumanResourceManagement\HumanResourceManagement\bin\roslyn\System.Reflection.Metadata.dll
+E:\Project08\HumanResourceManagement\HumanResourceManagement\bin\roslyn\System.Security.AccessControl.dll
+E:\Project08\HumanResourceManagement\HumanResourceManagement\bin\roslyn\System.Security.Claims.dll
+E:\Project08\HumanResourceManagement\HumanResourceManagement\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+E:\Project08\HumanResourceManagement\HumanResourceManagement\bin\roslyn\System.Security.Cryptography.Encoding.dll
+E:\Project08\HumanResourceManagement\HumanResourceManagement\bin\roslyn\System.Security.Cryptography.Primitives.dll
+E:\Project08\HumanResourceManagement\HumanResourceManagement\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+E:\Project08\HumanResourceManagement\HumanResourceManagement\bin\roslyn\System.Security.Principal.Windows.dll
+E:\Project08\HumanResourceManagement\HumanResourceManagement\bin\roslyn\System.Text.Encoding.CodePages.dll
+E:\Project08\HumanResourceManagement\HumanResourceManagement\bin\roslyn\System.ValueTuple.dll
+E:\Project08\HumanResourceManagement\HumanResourceManagement\bin\roslyn\System.Xml.ReaderWriter.dll
+E:\Project08\HumanResourceManagement\HumanResourceManagement\bin\roslyn\System.Xml.XmlDocument.dll
+E:\Project08\HumanResourceManagement\HumanResourceManagement\bin\roslyn\System.Xml.XPath.dll
+E:\Project08\HumanResourceManagement\HumanResourceManagement\bin\roslyn\System.Xml.XPath.XDocument.dll
+E:\Project08\HumanResourceManagement\HumanResourceManagement\bin\roslyn\vbc.exe
+E:\Project08\HumanResourceManagement\HumanResourceManagement\bin\roslyn\vbc.exe.config
+E:\Project08\HumanResourceManagement\HumanResourceManagement\bin\roslyn\vbc.rsp
+E:\Project08\HumanResourceManagement\HumanResourceManagement\bin\roslyn\VBCSCompiler.exe
+E:\Project08\HumanResourceManagement\HumanResourceManagement\bin\roslyn\VBCSCompiler.exe.config
+E:\Project08\HumanResourceManagement\HumanResourceManagement\bin\Antlr3.Runtime.dll
+E:\Project08\HumanResourceManagement\HumanResourceManagement\bin\EntityFramework.dll
+E:\Project08\HumanResourceManagement\HumanResourceManagement\bin\EntityFramework.SqlServer.dll
+E:\Project08\HumanResourceManagement\HumanResourceManagement\bin\Microsoft.AspNet.Identity.Core.dll
+E:\Project08\HumanResourceManagement\HumanResourceManagement\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+E:\Project08\HumanResourceManagement\HumanResourceManagement\bin\Microsoft.AspNet.Identity.Owin.dll
+E:\Project08\HumanResourceManagement\HumanResourceManagement\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+E:\Project08\HumanResourceManagement\HumanResourceManagement\bin\Microsoft.Owin.dll
+E:\Project08\HumanResourceManagement\HumanResourceManagement\bin\Microsoft.Owin.Host.SystemWeb.dll
+E:\Project08\HumanResourceManagement\HumanResourceManagement\bin\Microsoft.Owin.Security.Cookies.dll
+E:\Project08\HumanResourceManagement\HumanResourceManagement\bin\Microsoft.Owin.Security.dll
+E:\Project08\HumanResourceManagement\HumanResourceManagement\bin\Microsoft.Owin.Security.Facebook.dll
+E:\Project08\HumanResourceManagement\HumanResourceManagement\bin\Microsoft.Owin.Security.Google.dll
+E:\Project08\HumanResourceManagement\HumanResourceManagement\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+E:\Project08\HumanResourceManagement\HumanResourceManagement\bin\Microsoft.Owin.Security.OAuth.dll
+E:\Project08\HumanResourceManagement\HumanResourceManagement\bin\Microsoft.Owin.Security.Twitter.dll
+E:\Project08\HumanResourceManagement\HumanResourceManagement\bin\Microsoft.Web.Infrastructure.dll
+E:\Project08\HumanResourceManagement\HumanResourceManagement\bin\Newtonsoft.Json.dll
+E:\Project08\HumanResourceManagement\HumanResourceManagement\bin\Owin.dll
+E:\Project08\HumanResourceManagement\HumanResourceManagement\bin\System.Web.Helpers.dll
+E:\Project08\HumanResourceManagement\HumanResourceManagement\bin\System.Web.Mvc.dll
+E:\Project08\HumanResourceManagement\HumanResourceManagement\bin\System.Web.Optimization.dll
+E:\Project08\HumanResourceManagement\HumanResourceManagement\bin\System.Web.Razor.dll
+E:\Project08\HumanResourceManagement\HumanResourceManagement\bin\System.Web.WebPages.Deployment.dll
+E:\Project08\HumanResourceManagement\HumanResourceManagement\bin\System.Web.WebPages.dll
+E:\Project08\HumanResourceManagement\HumanResourceManagement\bin\System.Web.WebPages.Razor.dll
+E:\Project08\HumanResourceManagement\HumanResourceManagement\bin\WebGrease.dll
+E:\Project08\HumanResourceManagement\HumanResourceManagement\bin\System.Web.Helpers.xml
+E:\Project08\HumanResourceManagement\HumanResourceManagement\bin\System.Web.Mvc.xml
+E:\Project08\HumanResourceManagement\HumanResourceManagement\bin\System.Web.Optimization.xml
+E:\Project08\HumanResourceManagement\HumanResourceManagement\bin\System.Web.Razor.xml
+E:\Project08\HumanResourceManagement\HumanResourceManagement\bin\System.Web.WebPages.xml
+E:\Project08\HumanResourceManagement\HumanResourceManagement\bin\System.Web.WebPages.Deployment.xml
+E:\Project08\HumanResourceManagement\HumanResourceManagement\bin\System.Web.WebPages.Razor.xml
+E:\Project08\HumanResourceManagement\HumanResourceManagement\bin\Newtonsoft.Json.xml
+E:\Project08\HumanResourceManagement\HumanResourceManagement\bin\Antlr3.Runtime.pdb
+E:\Project08\HumanResourceManagement\HumanResourceManagement\bin\EntityFramework.xml
+E:\Project08\HumanResourceManagement\HumanResourceManagement\bin\EntityFramework.SqlServer.xml
+E:\Project08\HumanResourceManagement\HumanResourceManagement\bin\Microsoft.AspNet.Identity.Core.xml
+E:\Project08\HumanResourceManagement\HumanResourceManagement\bin\Microsoft.AspNet.Identity.Owin.xml
+E:\Project08\HumanResourceManagement\HumanResourceManagement\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+E:\Project08\HumanResourceManagement\HumanResourceManagement\bin\Microsoft.Owin.xml
+E:\Project08\HumanResourceManagement\HumanResourceManagement\bin\Microsoft.Owin.Host.SystemWeb.xml
+E:\Project08\HumanResourceManagement\HumanResourceManagement\bin\Microsoft.Owin.Security.xml
+E:\Project08\HumanResourceManagement\HumanResourceManagement\bin\Microsoft.Owin.Security.Facebook.xml
+E:\Project08\HumanResourceManagement\HumanResourceManagement\bin\Microsoft.Owin.Security.Cookies.xml
+E:\Project08\HumanResourceManagement\HumanResourceManagement\bin\Microsoft.Owin.Security.Google.xml
+E:\Project08\HumanResourceManagement\HumanResourceManagement\bin\Microsoft.Owin.Security.Twitter.xml
+E:\Project08\HumanResourceManagement\HumanResourceManagement\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+E:\Project08\HumanResourceManagement\HumanResourceManagement\bin\Microsoft.Owin.Security.OAuth.xml
+E:\Project08\HumanResourceManagement\HumanResourceManagement\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+E:\Project08\HumanResourceManagement\HumanResourceManagement\obj\Debug\HumanResourceManagement.Migrations.Jashim.resources
+E:\Project08\HumanResourceManagement\HumanResourceManagement\obj\Debug\HumanResourceManagement.Migrations.Jashim2.resources
+E:\Project08\HumanResourceManagement\HumanResourceManagement\obj\Debug\HumanResourceManagement.Migrations.Jashim3.resources
+E:\Project08\HumanResourceManagement\HumanResourceManagement\obj\Debug\HumanResourceManagement.Migrations.Jashim5.resources
+E:\Project08\HumanResourceManagement\HumanResourceManagement\obj\Debug\HumanResourceManagement.csproj.GenerateResource.cache
+E:\Project08\HumanResourceManagement\HumanResourceManagement\obj\Debug\HumanResourceManagement.csproj.CoreCompileInputs.cache
+E:\Project08\HumanResourceManagement\HumanResourceManagement\obj\Debug\HumanResourceManagement.csproj.CopyComplete
+E:\Project08\HumanResourceManagement\HumanResourceManagement\obj\Debug\HumanResourceManagement.dll
+E:\Project08\HumanResourceManagement\HumanResourceManagement\obj\Debug\HumanResourceManagement.pdb
+E:\Project08\HumanResourceManagement\HumanResourceManagement\obj\Debug\HumanResourceManagement.Migrations.Jashim45.resources
+F:\New folder\MVC\Project\Project08\HumanResourceManagement\HumanResourceManagement\bin\HumanResourceManagement.dll.config
+F:\New folder\MVC\Project\Project08\HumanResourceManagement\HumanResourceManagement\bin\HumanResourceManagement.dll
+F:\New folder\MVC\Project\Project08\HumanResourceManagement\HumanResourceManagement\bin\HumanResourceManagement.pdb
+F:\New folder\MVC\Project\Project08\HumanResourceManagement\HumanResourceManagement\bin\roslyn\csc.exe
+F:\New folder\MVC\Project\Project08\HumanResourceManagement\HumanResourceManagement\bin\roslyn\csc.exe.config
+F:\New folder\MVC\Project\Project08\HumanResourceManagement\HumanResourceManagement\bin\roslyn\csc.rsp
+F:\New folder\MVC\Project\Project08\HumanResourceManagement\HumanResourceManagement\bin\roslyn\csi.exe
+F:\New folder\MVC\Project\Project08\HumanResourceManagement\HumanResourceManagement\bin\roslyn\csi.exe.config
+F:\New folder\MVC\Project\Project08\HumanResourceManagement\HumanResourceManagement\bin\roslyn\csi.rsp
+F:\New folder\MVC\Project\Project08\HumanResourceManagement\HumanResourceManagement\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+F:\New folder\MVC\Project\Project08\HumanResourceManagement\HumanResourceManagement\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+F:\New folder\MVC\Project\Project08\HumanResourceManagement\HumanResourceManagement\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+F:\New folder\MVC\Project\Project08\HumanResourceManagement\HumanResourceManagement\bin\roslyn\Microsoft.CodeAnalysis.dll
+F:\New folder\MVC\Project\Project08\HumanResourceManagement\HumanResourceManagement\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+F:\New folder\MVC\Project\Project08\HumanResourceManagement\HumanResourceManagement\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+F:\New folder\MVC\Project\Project08\HumanResourceManagement\HumanResourceManagement\bin\roslyn\Microsoft.CSharp.Core.targets
+F:\New folder\MVC\Project\Project08\HumanResourceManagement\HumanResourceManagement\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+F:\New folder\MVC\Project\Project08\HumanResourceManagement\HumanResourceManagement\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+F:\New folder\MVC\Project\Project08\HumanResourceManagement\HumanResourceManagement\bin\roslyn\Microsoft.Managed.Core.targets
+F:\New folder\MVC\Project\Project08\HumanResourceManagement\HumanResourceManagement\bin\roslyn\Microsoft.VisualBasic.Core.targets
+F:\New folder\MVC\Project\Project08\HumanResourceManagement\HumanResourceManagement\bin\roslyn\System.AppContext.dll
+F:\New folder\MVC\Project\Project08\HumanResourceManagement\HumanResourceManagement\bin\roslyn\System.Collections.Immutable.dll
+F:\New folder\MVC\Project\Project08\HumanResourceManagement\HumanResourceManagement\bin\roslyn\System.Console.dll
+F:\New folder\MVC\Project\Project08\HumanResourceManagement\HumanResourceManagement\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+F:\New folder\MVC\Project\Project08\HumanResourceManagement\HumanResourceManagement\bin\roslyn\System.Diagnostics.StackTrace.dll
+F:\New folder\MVC\Project\Project08\HumanResourceManagement\HumanResourceManagement\bin\roslyn\System.IO.Compression.dll
+F:\New folder\MVC\Project\Project08\HumanResourceManagement\HumanResourceManagement\bin\roslyn\System.IO.FileSystem.dll
+F:\New folder\MVC\Project\Project08\HumanResourceManagement\HumanResourceManagement\bin\roslyn\System.IO.FileSystem.Primitives.dll
+F:\New folder\MVC\Project\Project08\HumanResourceManagement\HumanResourceManagement\bin\roslyn\System.IO.Pipes.AccessControl.dll
+F:\New folder\MVC\Project\Project08\HumanResourceManagement\HumanResourceManagement\bin\roslyn\System.IO.Pipes.dll
+F:\New folder\MVC\Project\Project08\HumanResourceManagement\HumanResourceManagement\bin\roslyn\System.Reflection.Metadata.dll
+F:\New folder\MVC\Project\Project08\HumanResourceManagement\HumanResourceManagement\bin\roslyn\System.Security.AccessControl.dll
+F:\New folder\MVC\Project\Project08\HumanResourceManagement\HumanResourceManagement\bin\roslyn\System.Security.Claims.dll
+F:\New folder\MVC\Project\Project08\HumanResourceManagement\HumanResourceManagement\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+F:\New folder\MVC\Project\Project08\HumanResourceManagement\HumanResourceManagement\bin\roslyn\System.Security.Cryptography.Encoding.dll
+F:\New folder\MVC\Project\Project08\HumanResourceManagement\HumanResourceManagement\bin\roslyn\System.Security.Cryptography.Primitives.dll
+F:\New folder\MVC\Project\Project08\HumanResourceManagement\HumanResourceManagement\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+F:\New folder\MVC\Project\Project08\HumanResourceManagement\HumanResourceManagement\bin\roslyn\System.Security.Principal.Windows.dll
+F:\New folder\MVC\Project\Project08\HumanResourceManagement\HumanResourceManagement\bin\roslyn\System.Text.Encoding.CodePages.dll
+F:\New folder\MVC\Project\Project08\HumanResourceManagement\HumanResourceManagement\bin\roslyn\System.ValueTuple.dll
+F:\New folder\MVC\Project\Project08\HumanResourceManagement\HumanResourceManagement\bin\roslyn\System.Xml.ReaderWriter.dll
+F:\New folder\MVC\Project\Project08\HumanResourceManagement\HumanResourceManagement\bin\roslyn\System.Xml.XmlDocument.dll
+F:\New folder\MVC\Project\Project08\HumanResourceManagement\HumanResourceManagement\bin\roslyn\System.Xml.XPath.dll
+F:\New folder\MVC\Project\Project08\HumanResourceManagement\HumanResourceManagement\bin\roslyn\System.Xml.XPath.XDocument.dll
+F:\New folder\MVC\Project\Project08\HumanResourceManagement\HumanResourceManagement\bin\roslyn\vbc.exe
+F:\New folder\MVC\Project\Project08\HumanResourceManagement\HumanResourceManagement\bin\roslyn\vbc.exe.config
+F:\New folder\MVC\Project\Project08\HumanResourceManagement\HumanResourceManagement\bin\roslyn\vbc.rsp
+F:\New folder\MVC\Project\Project08\HumanResourceManagement\HumanResourceManagement\bin\roslyn\VBCSCompiler.exe
+F:\New folder\MVC\Project\Project08\HumanResourceManagement\HumanResourceManagement\bin\roslyn\VBCSCompiler.exe.config
+F:\New folder\MVC\Project\Project08\HumanResourceManagement\HumanResourceManagement\bin\Antlr3.Runtime.dll
+F:\New folder\MVC\Project\Project08\HumanResourceManagement\HumanResourceManagement\bin\EntityFramework.dll
+F:\New folder\MVC\Project\Project08\HumanResourceManagement\HumanResourceManagement\bin\EntityFramework.SqlServer.dll
+F:\New folder\MVC\Project\Project08\HumanResourceManagement\HumanResourceManagement\bin\Microsoft.AspNet.Identity.Core.dll
+F:\New folder\MVC\Project\Project08\HumanResourceManagement\HumanResourceManagement\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+F:\New folder\MVC\Project\Project08\HumanResourceManagement\HumanResourceManagement\bin\Microsoft.AspNet.Identity.Owin.dll
+F:\New folder\MVC\Project\Project08\HumanResourceManagement\HumanResourceManagement\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+F:\New folder\MVC\Project\Project08\HumanResourceManagement\HumanResourceManagement\bin\Microsoft.Owin.dll
+F:\New folder\MVC\Project\Project08\HumanResourceManagement\HumanResourceManagement\bin\Microsoft.Owin.Host.SystemWeb.dll
+F:\New folder\MVC\Project\Project08\HumanResourceManagement\HumanResourceManagement\bin\Microsoft.Owin.Security.Cookies.dll
+F:\New folder\MVC\Project\Project08\HumanResourceManagement\HumanResourceManagement\bin\Microsoft.Owin.Security.dll
+F:\New folder\MVC\Project\Project08\HumanResourceManagement\HumanResourceManagement\bin\Microsoft.Owin.Security.Facebook.dll
+F:\New folder\MVC\Project\Project08\HumanResourceManagement\HumanResourceManagement\bin\Microsoft.Owin.Security.Google.dll
+F:\New folder\MVC\Project\Project08\HumanResourceManagement\HumanResourceManagement\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+F:\New folder\MVC\Project\Project08\HumanResourceManagement\HumanResourceManagement\bin\Microsoft.Owin.Security.OAuth.dll
+F:\New folder\MVC\Project\Project08\HumanResourceManagement\HumanResourceManagement\bin\Microsoft.Owin.Security.Twitter.dll
+F:\New folder\MVC\Project\Project08\HumanResourceManagement\HumanResourceManagement\bin\Microsoft.Web.Infrastructure.dll
+F:\New folder\MVC\Project\Project08\HumanResourceManagement\HumanResourceManagement\bin\Newtonsoft.Json.dll
+F:\New folder\MVC\Project\Project08\HumanResourceManagement\HumanResourceManagement\bin\Owin.dll
+F:\New folder\MVC\Project\Project08\HumanResourceManagement\HumanResourceManagement\bin\System.Web.Helpers.dll
+F:\New folder\MVC\Project\Project08\HumanResourceManagement\HumanResourceManagement\bin\System.Web.Mvc.dll
+F:\New folder\MVC\Project\Project08\HumanResourceManagement\HumanResourceManagement\bin\System.Web.Optimization.dll
+F:\New folder\MVC\Project\Project08\HumanResourceManagement\HumanResourceManagement\bin\System.Web.Razor.dll
+F:\New folder\MVC\Project\Project08\HumanResourceManagement\HumanResourceManagement\bin\System.Web.WebPages.Deployment.dll
+F:\New folder\MVC\Project\Project08\HumanResourceManagement\HumanResourceManagement\bin\System.Web.WebPages.dll
+F:\New folder\MVC\Project\Project08\HumanResourceManagement\HumanResourceManagement\bin\System.Web.WebPages.Razor.dll
+F:\New folder\MVC\Project\Project08\HumanResourceManagement\HumanResourceManagement\bin\WebGrease.dll
+F:\New folder\MVC\Project\Project08\HumanResourceManagement\HumanResourceManagement\bin\System.Web.Helpers.xml
+F:\New folder\MVC\Project\Project08\HumanResourceManagement\HumanResourceManagement\bin\System.Web.Mvc.xml
+F:\New folder\MVC\Project\Project08\HumanResourceManagement\HumanResourceManagement\bin\System.Web.Optimization.xml
+F:\New folder\MVC\Project\Project08\HumanResourceManagement\HumanResourceManagement\bin\System.Web.Razor.xml
+F:\New folder\MVC\Project\Project08\HumanResourceManagement\HumanResourceManagement\bin\System.Web.WebPages.xml
+F:\New folder\MVC\Project\Project08\HumanResourceManagement\HumanResourceManagement\bin\System.Web.WebPages.Deployment.xml
+F:\New folder\MVC\Project\Project08\HumanResourceManagement\HumanResourceManagement\bin\System.Web.WebPages.Razor.xml
+F:\New folder\MVC\Project\Project08\HumanResourceManagement\HumanResourceManagement\bin\Newtonsoft.Json.xml
+F:\New folder\MVC\Project\Project08\HumanResourceManagement\HumanResourceManagement\bin\Antlr3.Runtime.pdb
+F:\New folder\MVC\Project\Project08\HumanResourceManagement\HumanResourceManagement\bin\EntityFramework.xml
+F:\New folder\MVC\Project\Project08\HumanResourceManagement\HumanResourceManagement\bin\EntityFramework.SqlServer.xml
+F:\New folder\MVC\Project\Project08\HumanResourceManagement\HumanResourceManagement\bin\Microsoft.AspNet.Identity.Core.xml
+F:\New folder\MVC\Project\Project08\HumanResourceManagement\HumanResourceManagement\bin\Microsoft.AspNet.Identity.Owin.xml
+F:\New folder\MVC\Project\Project08\HumanResourceManagement\HumanResourceManagement\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+F:\New folder\MVC\Project\Project08\HumanResourceManagement\HumanResourceManagement\bin\Microsoft.Owin.xml
+F:\New folder\MVC\Project\Project08\HumanResourceManagement\HumanResourceManagement\bin\Microsoft.Owin.Host.SystemWeb.xml
+F:\New folder\MVC\Project\Project08\HumanResourceManagement\HumanResourceManagement\bin\Microsoft.Owin.Security.xml
+F:\New folder\MVC\Project\Project08\HumanResourceManagement\HumanResourceManagement\bin\Microsoft.Owin.Security.Facebook.xml
+F:\New folder\MVC\Project\Project08\HumanResourceManagement\HumanResourceManagement\bin\Microsoft.Owin.Security.Cookies.xml
+F:\New folder\MVC\Project\Project08\HumanResourceManagement\HumanResourceManagement\bin\Microsoft.Owin.Security.Google.xml
+F:\New folder\MVC\Project\Project08\HumanResourceManagement\HumanResourceManagement\bin\Microsoft.Owin.Security.Twitter.xml
+F:\New folder\MVC\Project\Project08\HumanResourceManagement\HumanResourceManagement\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+F:\New folder\MVC\Project\Project08\HumanResourceManagement\HumanResourceManagement\bin\Microsoft.Owin.Security.OAuth.xml
+F:\New folder\MVC\Project\Project08\HumanResourceManagement\HumanResourceManagement\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+F:\New folder\MVC\Project\Project08\HumanResourceManagement\HumanResourceManagement\obj\Debug\HumanResourceManagement.Migrations.Jashim.resources
+F:\New folder\MVC\Project\Project08\HumanResourceManagement\HumanResourceManagement\obj\Debug\HumanResourceManagement.Migrations.Jashim2.resources
+F:\New folder\MVC\Project\Project08\HumanResourceManagement\HumanResourceManagement\obj\Debug\HumanResourceManagement.Migrations.Jashim3.resources
+F:\New folder\MVC\Project\Project08\HumanResourceManagement\HumanResourceManagement\obj\Debug\HumanResourceManagement.Migrations.Jashim5.resources
+F:\New folder\MVC\Project\Project08\HumanResourceManagement\HumanResourceManagement\obj\Debug\HumanResourceManagement.Migrations.Jashim45.resources
+F:\New folder\MVC\Project\Project08\HumanResourceManagement\HumanResourceManagement\obj\Debug\HumanResourceManagement.Migrations.Payroll.resources
+F:\New folder\MVC\Project\Project08\HumanResourceManagement\HumanResourceManagement\obj\Debug\HumanResourceManagement.csproj.GenerateResource.cache
+F:\New folder\MVC\Project\Project08\HumanResourceManagement\HumanResourceManagement\obj\Debug\HumanResourceManagement.csproj.CoreCompileInputs.cache
+F:\New folder\MVC\Project\Project08\HumanResourceManagement\HumanResourceManagement\obj\Debug\HumanResourceManagement.csproj.CopyComplete
+F:\New folder\MVC\Project\Project08\HumanResourceManagement\HumanResourceManagement\obj\Debug\HumanResourceManagement.dll
+F:\New folder\MVC\Project\Project08\HumanResourceManagement\HumanResourceManagement\obj\Debug\HumanResourceManagement.pdb
+F:\New folder\MVC\Project\Project08\HumanResourceManagement\HumanResourceManagement\obj\Debug\HumanResourceManagement.csprojAssemblyReference.cache

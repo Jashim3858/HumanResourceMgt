@@ -1,0 +1,99 @@
+﻿@model IEnumerable<HumanResourceManagement.Models.Payroll>
+
+@{
+    ViewBag.Title = "Index";
+}
+
+<h2>Index</h2>
+
+<p>
+    @Html.ActionLink("Create New", "Create")
+</p>
+<table class="table">
+    <tr>
+        <th>
+            @Html.DisplayNameFor(model => model.BasicSalary)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.OverTime)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.HouserentAllowance)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.TransportAllowance)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.DarenessAllowance)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.MedicalAllowance)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.GrossSalary)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.ProvidentFund)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.CashAdvanced)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.ToatalDeduction)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.NetSalary)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.EmployeeID)
+        </th>
+        <th></th>
+    </tr>
+
+@foreach (var item in Model) {
+    <tr>
+        <td>
+            @Html.DisplayFor(modelItem => item.BasicSalary)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.OverTime)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.HouserentAllowance)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.TransportAllowance)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.DarenessAllowance)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.MedicalAllowance)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.GrossSalary)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.ProvidentFund)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.CashAdvanced)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.ToatalDeduction)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.NetSalary)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.EmployeeID)
+        </td>
+        <td>
+            @Html.ActionLink("Edit", "Edit", new { id=item.PayrollID }) |
+            @Html.ActionLink("Details", "Details", new { id=item.PayrollID }) |
+            @Html.ActionLink("Delete", "Delete", new { id=item.PayrollID })
+        </td>
+    </tr>
+}
+
+</table>
